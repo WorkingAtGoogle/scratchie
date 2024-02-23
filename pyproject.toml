@@ -1,0 +1,18 @@
+[project]
+name = "scratchie"
+version = "0.0.1"
+authors = [
+  { name="Vihar Modugula", email="vihar2408@gmail.com" },
+]
+description = "Scratchie is an amazing library for when converting from scratch to python. It has simmilar syntax to help kids to convert to text-based programming quickly."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: CC0 1.0 Universal",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/WorkingAtGoogle/scratchie"
+Issues = "https://github.com/WorkingAtGoogle/scratchie/issues"
