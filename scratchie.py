@@ -5,9 +5,9 @@ import pyttsx3
 engine = pyttsx3.init()
 
 
-class Scratch:
+class scratchie:
     def __init__(self):
-        print("Running Scratch For Python!")
+        print("Running Scratchie!")
     def say(self, string):
         print(string)
     def ask(self, string):
