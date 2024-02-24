@@ -13,7 +13,7 @@ classifiers = [
 ]
 
 [build-system]
-requires = ["setuptools == 68.2.2"
+requires = ["setuptools == 68.2.2"]
 
 [project.urls]
 Homepage = "https://github.com/WorkingAtGoogle/scratchie"
