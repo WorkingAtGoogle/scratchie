@@ -7,11 +7,13 @@ authors = [
 description = "Scratchie is an amazing library for when converting from scratch to python. It has simmilar syntax to help kids to convert to text-based programming quickly."
 readme = "README.md"
 requires-python = ">=3.8"
-requires = ["setuptools==68.2.2"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
 ]
+
+[build-system]
+requires = ["setuptools == 68.2.2"
 
 [project.urls]
 Homepage = "https://github.com/WorkingAtGoogle/scratchie"
