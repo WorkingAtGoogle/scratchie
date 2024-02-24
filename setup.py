@@ -13,7 +13,7 @@ setup(
     # *strongly* suggested for sharing
     version='0.1',
     # The license can be anything you like
-    dynamic='dynamic',
+    dynamic='MIT',
     description='Scratchie is an amazing library for when converting from scratch to python. It has similar syntax to scrath in order to help kids to convert to text-based programming quickly.',
     # We will also need a readme eventually (there will be a warning)
     # long_description=open('README.md').read(),
