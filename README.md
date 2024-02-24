@@ -2,8 +2,6 @@
 
 <h1 align="center">
  <img width="100px" src="https://i.imgur.com/O1T3CrC.png" align="center" alt="Logo" />
-
-
 <h2 align="center">Scratchie</h2>
 <p align="center">Scratchie is an amazing library for when converting from scratch to python. It has similar syntax to scrath in order to help kids to convert to text-based programming quickly.</p>
 
