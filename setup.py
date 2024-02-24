@@ -7,7 +7,7 @@ setup(
     author='Vihar Modugula',
     author_email='vihar2408@gmail.com',
     # Needed to actually package something
-    packages=['scratchie'],
+    packages=['pyttsx3'],
     # Needed for dependencies
     dynamic=['pyttsx3'],
     # *strongly* suggested for sharing
