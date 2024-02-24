@@ -35,5 +35,5 @@ jobs:
     - name: Publish package
       uses: pypa/gh-action-pypi-publish@27b31702a0e7fc50959f5ad993c78deac1bdfc29
       with:
-        user: cuxdi
-        password: hidadG12408
+        user: __token__
+        password: pypi-AgEIcHlwaS5vcmcCJGNmZjhiYmQyLTk0NTUtNDhmMC1hMDgwLTM3ZTA0ZTNlMDkxMgACKlszLCJiNjBjOTU4Ni03NmRkLTQ2NjktODIzMy01M2UyYjVlMjc0MTgiXQAABiBpp5fzR6cHdyBBpApe8lgmOI6dbEdznz1IW2LcqFMKlg
