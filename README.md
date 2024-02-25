@@ -24,6 +24,11 @@ python -m site --user-site
 ```
 git clone https://github.com/WorkingAtGoogle/scratchie.git
 ```
+
+Also run this.
+```
+pip install pyttsx3
+```
 Done! you're ready to go. Scroll down to start!
 
 (I'm sorry it was kind of hard to install. PyPI is so confusing and just didn't work)
