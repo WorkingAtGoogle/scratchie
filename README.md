@@ -1,31 +1,46 @@
 
-
-<h1 align="center">
+<p align="center">
  <img width="100px" src="https://i.imgur.com/O1T3CrC.png" align="center" alt="Logo" />
+
+
 <h2 align="center">Scratchie</h2>
 <p align="center">Scratchie is an amazing library for when converting from scratch to python. It has similar syntax to scrath in order to help kids to convert to text-based programming quickly.</p>
 
 
-## Quick Start (Might Not Work) 🏁
+## Quick Start 🏁
 
-Press ```Windows Key + R``` and type in "```cmd```". After doing so, copy and paste this into the terminal, then hit enter.
+1 Press ```Windows Key + R``` and type in "```cmd```". After doing so, copy and paste this into the terminal, then hit enter.
 
 ```
-pip install git+https://github.com/WorkingAtGoogle/scratchie.git#egg=scratchie
+python -m site --user-site
 ```
+
+2 Now copy the output given.
+
+3 Now run ```cd <paste in the output>```
+
+4 Run the command below and press enter. 
+```
+git clone https://github.com/WorkingAtGoogle/scratchie.git
+```
+Done! you're ready to go. Scroll down to start!
+
+(I'm sorry it was kind of hard to install. PyPI is so confusing and just didn't work)
+
+P.S Sorry mac users.
 
 
 
 ## Documentation 📜
 
-This is al the features for Scartchie explained.
+This is all the features for Scratchie explained.
 
 
 ## Importing and Setup
 ```python
-from Scratchie import Scratchie
+from scratchie import scratchie
 
-s = Scratchie()
+s = scratchie.scratchie()
 ```
 This imports the library so you can use it. This is needed to make the project work. This also creates a shortcut to make the other steps easier to do.
 
@@ -98,3 +113,5 @@ This is a special feature not included in scratch, but it opens the website in a
 
  - [readme.so (helped me make this readme)](https://readme.so)
  - [CodeKids (The whole reason I made this)](https://codekids.com.au)
+
+
