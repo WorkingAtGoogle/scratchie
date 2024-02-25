@@ -20,6 +20,7 @@ python -m site --user-site
 3 Now run ```cd <paste in the output>```
 
 4 Run the command below and press enter. 
+(Make sure you have [Git](https://git-scm.com/downloads) installed!)
 ```
 git clone https://github.com/WorkingAtGoogle/scratchie.git
 ```
