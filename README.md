@@ -25,7 +25,7 @@ python -m site --user-site
 git clone https://github.com/WorkingAtGoogle/scratchie.git
 ```
 
-Also run this.
+Also run this if you want the text-to-speech features.
 ```
 pip install pyttsx3
 ```
