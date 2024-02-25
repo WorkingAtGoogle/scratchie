@@ -4,7 +4,7 @@
 
 
 <h2 align="center">Scratchie</h2>
-<p align="center">Scratchie is an amazing library for when converting from scratch to python. It has similar syntax to scrath in order to help kids to convert to text-based programming quickly.</p>
+<p align="center">Scratchie is an amazing library for when converting from scratch to python. It has similar syntax to scratch in order to help kids to convert to text-based programming quickly.</p>
 
 
 ## Quick Start 🏁
