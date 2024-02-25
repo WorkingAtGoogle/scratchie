@@ -1,8 +1,5 @@
 import random
 import time
-import pyttsx3
-
-engine = pyttsx3.init()
 
 
 class scratchie:
@@ -29,6 +26,8 @@ class scratchie:
     def letterof(self, num, string):
         return  string[num-1]
     def speak(self, text):
+        import pyttsx3
+        engine = pyttsx3.init()
         engine.say(text)
         engine.runAndWait()
 
